@@ -20,7 +20,7 @@ Mô tả: Cập nhật README.md với thông tin đầy đủ của các thành
 Thành viên và nhiệm vụ:
 STT  Họ và tên           MSSV      Nhiệm vụ                         Đóng góp    Link thông tin
 1    Trần Trọng Nghĩa    2012345   Team Leader, Setup repo...        30%
-2    Trần Phúc Bảo       2012346   Cập nhật README, Quản lý issues   15%
+2    Trần Phúc Bảo       2012346   Cập nhật README, Quản lý issues   15%        https://github.com/25119056-baobao/nhapmon-ktmt.git
 3    Huỳnh Lê Anh Kha    2012347   Viết tài liệu, Tạo branch         15%
 4    Nguyễn Minh Quang   2012348   Test và merge PR, Báo cáo         15%
 5    Nguyễn Hữu Thông    25119159  Cập nhật README.md (PR #2)        15%        https://github.com/thongngury/NHT-KTMT-NHAPMON.git

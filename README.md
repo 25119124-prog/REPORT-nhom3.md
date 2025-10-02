@@ -10,17 +10,17 @@ Giảng viên: [Huỳnh Thế Thiện]
 Link repo nhóm (Public): https://github.com/25119124-prog/ktmt-nhapmon1
 2. Link Pull Requests đã merge
 PR #1: Khởi tạo cấu trúc dự án
-Link: https://github.com/username/ktmt-nhapmon/pull/1
+Link: 
 Mô tả: Tạo cấu trúc thư mục cơ bản, thêm README.md và .gitignore
 Người tạo: Trần Trọng Nghĩa,Nguyễn Hữu Thông
 Trạng thái: ✅ Merged
 PR #2: Thêm thông tin thành viên nhóm
-Link: https://github.com/25119124-prog/ktmt-nhapmon1/pull/2
+Link: https://github.com/25119056-baobao/nhapmon-ktmt/commit/c5b119e1b8a9c9811038cd48d890d9863ead2f30
 Mô tả: Cập nhật README.md với thông tin đầy đủ của các thành viên
 Người tạo: Trần Phúc Bảo, Huỳnh Gia Bảo
 Trạng thái: ✅ Merged
 PR #3: Hoàn thiện tài liệu hướng dẫn
-Link: https://github.com/username/ktmt-nhapmon/pull/3
+Link: https://github.com/MinhQuang0512/KTMT-Nhom3-RP1/pull/1/commits/7e942e9d3f1fe7a5af4eeb62ec123c57a0ff2877
 Mô tả: Thêm file GUIDE.md hướng dẫn sử dụng Git cơ bản
 Người tạo: Nguyễn Minh Quang, Huỳnh Lê Anh Kha
 Trạng thái: ✅ Merged

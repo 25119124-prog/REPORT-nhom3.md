@@ -17,6 +17,14 @@ Trạng thái: ✅ Merged
 PR #2: Thêm thông tin thành viên nhóm
 Link: https://github.com/25119124-prog/ktmt-nhapmon1/pull/2
 Mô tả: Cập nhật README.md với thông tin đầy đủ của các thành viên
+Thành viên và nhiệm vụ:
+STT  Họ và tên           MSSV      Nhiệm vụ                         Đóng góp    Link thông tin
+1    Trần Trọng Nghĩa    2012345   Team Leader, Setup repo...        30%
+2    Trần Phúc Bảo       2012346   Cập nhật README, Quản lý issues   15%        https://github.com/25119056-baobao/nhapmon-ktmt.git
+3    Huỳnh Lê Anh Kha    2012347   Viết tài liệu, Tạo branch         15%
+4    Nguyễn Minh Quang   2012348   Test và merge PR, Báo cáo         15%
+5    Nguyễn Hữu Thông    25119159  Cập nhật README.md (PR #2)        15%        https://github.com/thongngury/NHT-KTMT-NHAPMON.git
+6    Huỳnh Gia Bảo       25119055  Tạo file Guide.md (PR #3)         10%
 Người tạo: Trần Phúc Bảo, Huỳnh Gia Bảo
 Trạng thái: ✅ Merged
 PR #3: Hoàn thiện tài liệu hướng dẫn
@@ -26,12 +34,12 @@ Người tạo: Nguyễn Minh Quang, Huỳnh Lê Anh Kha
 Trạng thái: ✅ Merged
 3. Thành viên và nhiệm vụ
 STT	Họ và tên	MSSV	Nhiệm vụ	Đóng góp
-   Trần Trọng Nghĩa, Nguyễn Hữu Thông	2012345	Team Leader, Setup repo, Review PR	30%
+1  Trần Trọng Nghĩa, Nguyễn Hữu Thông	2012345	Team Leader, Setup repo, Review PR	30%
 2	Trần Phúc Bảo, Huỳnh Gia Bảo	2012346	Cập nhật README, Quản lý issues	25%
 3 Huỳnh Lê Anh Kha	2012347	Viết tài liệu, Tạo branch	25%
 4 Nguyễn Minh Quang	2012348	Test và merge PR, Báo cáo	20%
 Chi tiết công việc:
-Nguyễn Hữu Thông:
+Nguyễn Hữu Thông
 
 Khởi tạo repository trên GitHub
 Cấu hình branch protection rules
@@ -274,7 +282,7 @@ Qua bài tập thực hành Git tuần 4, nhóm đã:
 ✅ Áp dụng được các best practices trong thực tế
 Đánh giá chung: Bài tập giúp nhóm hiểu sâu hơn về Git workflow trong môi trường làm việc thực tế, đặc biệt là kỹ năng collaboration và code review.
 
-Ngày hoàn thành: [ ngày 30 tháng 9]
+Ngày hoàn thành: [ ngày 30 tháng 9 năm 2025 ]
 
-Chữ ký nhóm trưởng: __Thông_____________
+Chữ ký nhóm trưởng: __Thông__
 

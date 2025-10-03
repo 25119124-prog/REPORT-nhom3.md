@@ -28,7 +28,7 @@ STT  Họ và tên           MSSV      Nhiệm vụ                         Đó
 Người tạo: Trần Phúc Bảo, Huỳnh Gia Bảo
 Trạng thái: ✅ Merged
 PR #3: Hoàn thiện tài liệu hướng dẫn
-Link: https://github.com/username/ktmt-nhapmon/pull/3
+Link: https://github.com/giabao557/gb-nhapmonktmt/blob/main/GUIDE.md
 Mô tả: Thêm file GUIDE.md hướng dẫn sử dụng Git cơ bản
 Người tạo: Nguyễn Minh Quang, Huỳnh Lê Anh Kha
 Trạng thái: ✅ Merged

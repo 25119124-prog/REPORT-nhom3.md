@@ -10,7 +10,7 @@ Giảng viên: [Huỳnh Thế Thiện]
 Link repo nhóm (Public): https://github.com/25119124-prog/REPORT-nhom3.md.git
 2. Link Pull Requests đã merge
 PR #1: Khởi tạo cấu trúc dự án
-Link: https://github.com/username/ktmt-nhapmon/pull/1
+Link: https://github.com/25119124-prog/REPORT-nhom3.md/commit/4c89653b9ed9aa9bfee1bad079c34bce9572f4d6
 Mô tả: Tạo cấu trúc thư mục cơ bản, thêm README.md và .gitignore
 Người tạo: Trần Trọng Nghĩa,Nguyễn Hữu Thông
 Trạng thái: ✅ Merged
@@ -28,7 +28,7 @@ STT  Họ và tên           MSSV      Nhiệm vụ                         Đó
 Người tạo: Trần Phúc Bảo, Huỳnh Gia Bảo
 Trạng thái: ✅ Merged
 PR #3: Hoàn thiện tài liệu hướng dẫn
-Link: https://github.com/username/ktmt-nhapmon/pull/3
+Link: https://github.com/giabao557/gb-nhapmonktmt/blob/main/GUIDE.md
 Mô tả: Thêm file GUIDE.md hướng dẫn sử dụng Git cơ bản
 Người tạo: Nguyễn Minh Quang, Huỳnh Lê Anh Kha
 Trạng thái: ✅ Merged

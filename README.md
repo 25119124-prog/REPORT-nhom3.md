@@ -15,7 +15,7 @@ Mô tả: Tạo cấu trúc thư mục cơ bản, thêm README.md và .gitignore
 Người tạo: Trần Trọng Nghĩa,Nguyễn Hữu Thông
 Trạng thái: ✅ Merged
 PR #2: Thêm thông tin thành viên nhóm
-Link: https://github.com/25119124-prog/ktmt-nhapmon1/pull/2
+Link: https://github.com/25119124-prog/REPORT-nhom3.md.git
 Mô tả: Cập nhật README.md với thông tin đầy đủ của các thành viên
 Thành viên và nhiệm vụ:
 STT  Họ và tên           MSSV      Nhiệm vụ                         Đóng góp    Link thông tin

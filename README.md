@@ -98,7 +98,7 @@ git log --oneline --graph
 git diff
 
 # Clone repository
-git clone https://github.com/username/repo.git
+git clone https://github.com/25119124-prog/REPORT-nhom3.md/tree/main
 
 # Xem danh sách branch
 git branch -a
@@ -282,7 +282,7 @@ Qua bài tập thực hành Git tuần 4, nhóm đã:
 ✅ Áp dụng được các best practices trong thực tế
 Đánh giá chung: Bài tập giúp nhóm hiểu sâu hơn về Git workflow trong môi trường làm việc thực tế, đặc biệt là kỹ năng collaboration và code review.
 
-Ngày hoàn thành: [ ngày 30 tháng 9 năm 2025 ]
+Ngày hoàn thành: [ ngày 29 tháng 9 năm 2025 ]
 
 Chữ ký nhóm trưởng: __Thông__
 

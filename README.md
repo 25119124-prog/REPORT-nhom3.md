@@ -7,7 +7,7 @@ Tên nhóm: [nhóm 3]
 Môn học: nhập môn kỹ thuật máy tính
 Giảng viên: [Huỳnh Thế Thiện]
 1. Link Repository
-Link repo nhóm (Public): https://github.com/25119124-prog/ktmt-nhapmon1
+Link repo nhóm (Public): https://github.com/25119124-prog/REPORT-nhom3.md.git
 2. Link Pull Requests đã merge
 PR #1: Khởi tạo cấu trúc dự án
 Link: https://github.com/username/ktmt-nhapmon/pull/1

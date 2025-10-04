@@ -15,7 +15,7 @@ Mô tả: Tạo cấu trúc thư mục cơ bản, thêm README.md và .gitignore
 Người tạo: Trần Trọng Nghĩa,Nguyễn Hữu Thông
 Trạng thái: ✅ Merged
 PR #2: Thêm thông tin thành viên nhóm
-Link:  https://github.com/25119124-prog/REPORT-nhom3.md/pull/new/feature/add-members
+Link:  https://github.com/25119124-prog/REPORT-nhom3.md/commit/8fe694134d69fbe3b048fd0544a6fd269c0c4582
 Mô tả: Cập nhật README.md với thông tin đầy đủ của các thành viên
 Thành viên và nhiệm vụ:
 STT  Họ và tên           MSSV      Nhiệm vụ                         Đóng góp    Link thông tin
